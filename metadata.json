@@ -1,0 +1,12 @@
+{
+  "name": "babytrumsol",
+  "symbol": "BTS",
+  "uri": "https://raw.githubusercontent.com/tu-usuario/babytrumsol-metadata/main/metadata.json",
+  "seller_fee_basis_points": 0,
+  "creators": [
+    {
+      "address": "8cYsRjC8rdnd7Ge79ED8PZUr42fyrkda41ekiR8229mz",
+      "share": 0
+    }
+  ]
+}
