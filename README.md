@@ -1,5 +1,4 @@
 BabyTrumsol Token Metadata
-Este repositorio contiene los metadatos del token BabyTrumsol (BTS) en la blockchain de Solana.
 
 Información del Token
 Nombre: BabyTrumsol
